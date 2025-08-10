@@ -1,0 +1,58 @@
+[
+  {
+    "service": "email",
+    "timestamp": "2025-08-04T10:00:00Z"
+  },
+  {
+    "service": "email",
+    "timestamp": "2025-08-04T10:01:00Z"
+  },
+  {
+    "service": "email",
+    "timestamp": "2025-08-04T10:02:00Z"
+  },
+  {
+    "service": "email",
+    "timestamp": "2025-08-04T10:06:00Z"
+  },
+  {
+    "service": "database",
+    "timestamp": "2025-08-04T10:00:00Z"
+  },
+  {
+    "service": "database",
+    "timestamp": "2025-08-04T10:01:00Z"
+  },
+  {
+    "service": "database",
+    "timestamp": "2025-08-04T10:04:00Z"
+  },
+  {
+    "service": "  whitespace  ",
+    "timestamp": "2025-08-04T10:00:00Z"
+  },
+  {
+    "service": "fractional",
+    "timestamp": "2025-08-04T10:00:00.123Z"
+  },
+  {
+    "service": "timezone",
+    "timestamp": "2025-08-04T10:00:00+00:00"
+  },
+  {
+    "service": "broken"
+  },
+  {
+    "timestamp": "2025-08-04T10:00:00Z"
+  },
+  {
+    "service": "invalid",
+    "timestamp": "not-a-timestamp"
+  },
+  {
+    "service": "",
+    "timestamp": "2025-08-04T10:00:00Z"
+  },
+  "not a dict",
+  null
+]
